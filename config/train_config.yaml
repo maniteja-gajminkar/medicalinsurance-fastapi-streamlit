@@ -1,0 +1,10 @@
+model:
+  type: RandomForestRegressor
+  n_estimators: 100
+  random_state: 42
+
+data:
+  path: data/insurance.csv
+
+output:
+  model_path: models/insurance_model.pkl
