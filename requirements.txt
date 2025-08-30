@@ -1,8 +1,8 @@
 fastapi==0.110.0
 uvicorn==0.29.0
 pandas==2.2.2
-scikit-learn==1.4.2
-joblib==1.4.2
-pydantic==2.7.1
-pyyaml
-streamlit
+scikit-learn==1.3.2
+numpy==1.26.4
+scipy==1.12.0
+cython==3.0.6
+streamlit==1.33.0
